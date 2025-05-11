@@ -2,7 +2,7 @@ wallpapers = [
     {
             "wid": 1,
             "cid": "5",
-            "wlink": "https:\/\/aniwall.infinityfreeapp.com\/Wallpapers\/5\/25.jpg",
+            "wlink": "https://tinyurl.com/sdfaw321",
             "ec": "0",
             "pm": "0"
         },
