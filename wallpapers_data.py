@@ -2,7 +2,7 @@ wallpapers = [
     {
         "wid": 1,
         "cid": "1",
-        "wlink": "https://res.cloudinary.com/dha74cfvx/image/upload/v1747321049/1_g4fzqf.jpg",
+        "wlink": "https://drive.google.com/file/d/1zaYQStFyGxaIpoocEv7DH3WQ85jXX-1n/view?usp=drive_link",
         "ec": "0",
         "pm": "0"
     },
