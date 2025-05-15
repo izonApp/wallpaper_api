@@ -2,14 +2,14 @@ wallpapers = [
     {
         "wid": 1,
         "cid": "1",
-        "wlink": "https://res.cloudinary.com/dha74cfvx/image/upload/v1746961294/wallpapers/1/myxoc2tgsqazdwallypf.jpg",
+        "wlink": "https://res.cloudinary.com/dha74cfvx/image/upload/v1747321049/1_g4fzqf.jpg",
         "ec": "0",
         "pm": "0"
     },
     {
         "wid": 2,
         "cid": "1",
-        "wlink": "https://res.cloudinary.com/dha74cfvx/image/upload/v1746961295/wallpapers/1/ecliwsb2kdqva1cph2q8.jpg",
+        "wlink": "https://res.cloudinary.com/dha74cfvx/image/upload/v1747321049/2_yhm9hv.jpg",
         "ec": "1",
         "pm": "1"
     },
